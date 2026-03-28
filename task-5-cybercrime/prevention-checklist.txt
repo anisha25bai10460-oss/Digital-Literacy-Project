@@ -1,0 +1,16 @@
+Stay Safe Online: Prevention Checklist
+
+1. Never Enter Your PIN to Receive Money: Always remember that a UPI PIN is only required to send money or check your balance, never to receive it.
+2. Verify UPI IDs Before Paying: Before completing any transaction, double-check the name and UPI ID of the recipient in your app to ensure it matches the person you intend to pay.
+3. Enable Two-Factor Authentication (2FA): Activate 2FA on your college email, LinkedIn, and social media accounts to add an extra layer of security beyond just a password.
+4. Use Strong, Unique Passwords: Avoid using easily guessable passwords like your name or "123456"; use a combination of symbols, numbers, and letters instead.
+5. Avoid Public Wi-Fi for Sensitive Tasks: Never log into your bank account or VITyarthi portal using open public Wi-Fi at cafes or railway stations.
+6. Check for "HTTPS" and Padlock Icons: Before entering any login credentials on a website, ensure the URL starts with https:// and shows a locked padlock icon in the browser.
+7. Think Before You Click: Do not click on suspicious links in SMS or WhatsApp messages claiming you have won a prize or that your SIM card will be blocked.
+8. Audit App Permissions: Regularly check your phone settings to see which apps have access to your camera, microphone, and contacts, and revoke permissions for apps that don't need them.
+
+Official Reporting Channels
+
+If you or someone you know falls victim to a cybercrime, use these official Indian government channels immediately:
+* National Cyber Crime Reporting Portal: [suspicious link removed]
+* National Helpline Number: 1930 (Available 24x7)
